@@ -41,6 +41,14 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="Aceking007's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aceking007&show_icons=true&hide_border=true&hide=stars" />
+
+</details>
 
 [website]: https://aceking007.github.io/
 [instagram]: https://www.instagram.com/om_arpit/?hl=en
