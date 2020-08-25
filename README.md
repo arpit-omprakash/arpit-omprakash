@@ -39,6 +39,11 @@ Here are some ideas to get you started:
 
 ### 📘 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Major Update](https://aceking007.github.io/blog/Major-Update/)
+- [The Keystone of Ecology](https://aceking007.github.io/blog/The-Keystone-Of-Ecology/)
+- [Who Let the Dogs Ooze](https://aceking007.github.io/blog/Who-Let-The-Dogs-Ooze/)
+- [RegEx in Python](https://medium.com/byte-sized-code/regex-in-python-a5e9ea52ec87?source=rss-cbf16fc671fd------2)
+- [Blogging From My Phone](https://aceking007.github.io/blog/Blogging-From-My-Phone/)
 <!-- BLOG-POST-LIST:END -->
 
 
