@@ -50,6 +50,13 @@ Here are some ideas to get you started:
 
 </details>
 
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+  <img align="left" alt="Aceking007's Most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aceking007&hide_border=true" />
+
+</details>
+
 [website]: https://aceking007.github.io/
 [instagram]: https://www.instagram.com/om_arpit/?hl=en
 [twitter]: https://twitter.com/arpit_omprakash
