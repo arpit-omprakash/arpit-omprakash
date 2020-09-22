@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 ## I'm a Scientist, Student, Developer, and Blogger!
 - 🔭 I’m currently working on Myself!
-- 🌱 I’m currently learning everything 🤣
-- 💻 I use `.python`, `.html`, `.css`, `.javascript`, `.java`, `.git`, `.github`, `.bash`, `.powershell`
+- 🌱 I’m currently learning *creative coding*
+- 💻 I use `.python`, `.html`, `.css`, `.javascript`, `.java`, `.git`, `.github`, `.bash`, `.powershell`, `.processing`
 - 💬 Ask me about science
 - 📫 How to reach me: omprakasharpit@gmail.com
 - 😄 Pronouns: He/His
