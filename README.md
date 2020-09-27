@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 
 ### 📘 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Antiobiotic Apocalypse](https://aceking007.github.io/blog/Antibiotic-Apocalypse/)
 - [A Professional Certificate for an Unqualified Layman](https://aceking007.github.io/blog/A-Professional-Certificate-For-An-Unqualified-Layman/)
 - [Major Update](https://aceking007.github.io/blog/Major-Update/)
 - [The Keystone of Ecology](https://aceking007.github.io/blog/The-Keystone-Of-Ecology/)
 - [Who Let the Dogs Ooze](https://aceking007.github.io/blog/Who-Let-The-Dogs-Ooze/)
-- [RegEx in Python](https://medium.com/byte-sized-code/regex-in-python-a5e9ea52ec87?source=rss-cbf16fc671fd------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
