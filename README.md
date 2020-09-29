@@ -18,12 +18,15 @@ Here are some ideas to get you started:
 
 ## I'm a Scientist, Student, Developer, and Blogger!
 - 🔭 I’m currently working on Myself!
-- 🌱 I’m currently learning *creative coding*
-- 💻 I use `.python`, `.html`, `.css`, `.javascript`, `.java`, `.git`, `.github`, `.bash`, `.powershell`, `.processing`
-- 💬 Ask me about science
+- 🌱 I’m currently learning about Neural Networks
+- 🤔 I’m looking for help with [Byte Sized Code](https://github.com/aceking007/Byte-Sized-Code)
+- 💻 I use `.python`, `.html`, `.css`, `.javascript`, `.java`, `.git`, `.bash`, `.powershell`, `.processing`
+- 💬 Ask me about science and Python
 - 📫 How to reach me: omprakasharpit@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ 2020 Goals: Build a chess AI!
+- ⚡ 2020 Goals: Build an AI Ecosystem simulation!
+- ⚡ Completed Goals:
+	- [Chess AI](https://aceking007.github.io/chess/)
 
 ### Connect with me:
 
@@ -51,11 +54,13 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Aceking007's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aceking007&show_icons=true&hide_border=true&hide=stars" />
+  <img align="left" alt="Aceking007's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aceking007&show_icons=true&hide_border=true" />
   
 <br />
 
 </details>
+
+<br />
 
 <details>
   <summary>:zap: Most Used Languages</summary>
