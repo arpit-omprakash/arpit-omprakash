@@ -42,11 +42,11 @@ Here are some ideas to get you started:
 
 ### 📘 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Antiobiotic Apocalypse](https://aceking007.github.io/blog/Antibiotic-Apocalypse/)
-- [A Professional Certificate for an Unqualified Layman](https://aceking007.github.io/blog/A-Professional-Certificate-For-An-Unqualified-Layman/)
-- [Major Update](https://aceking007.github.io/blog/Major-Update/)
-- [The Keystone of Ecology](https://aceking007.github.io/blog/The-Keystone-Of-Ecology/)
-- [Who Let the Dogs Ooze](https://aceking007.github.io/blog/Who-Let-The-Dogs-Ooze/)
+- [RegEx in Python](https://medium.com/byte-sized-code/regex-in-python-a5e9ea52ec87?source=rss-cbf16fc671fd------2)
+- [Asterisks in Python](https://medium.com/byte-sized-code/asterisks-in-python-b46a3c7cfdf8?source=rss-cbf16fc671fd------2)
+- [Introduction to Game Development in Python (part 3)](https://medium.com/byte-sized-code/introduction-to-game-development-in-python-part-3-1ea915e31e25?source=rss-cbf16fc671fd------2)
+- [Introduction to Game Development in Python (part 2)](https://medium.com/byte-sized-code/introduction-to-game-development-in-python-part-2-78c2fa2b9315?source=rss-cbf16fc671fd------2)
+- [Introduction to Game Development in Python (part 1)](https://medium.com/byte-sized-code/the-worlds-most-boring-game-using-pygame-348c6a8f040a?source=rss-cbf16fc671fd------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
