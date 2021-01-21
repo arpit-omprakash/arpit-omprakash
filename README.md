@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about science and Python
 - 📫 How to reach me: omprakasharpit@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ 2020 Goals: Build an AI Ecosystem simulation!
+- ⚡ 2021 Goals: Build repositories to teach code. Currently - [C](https://github.com/aceking007/LearnC)
 - ⚡ Completed Goals:
 	- [Chess AI](https://aceking007.github.io/chess/)
 
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="Aceking007's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aceking007&show_icons=true&hide_border=true" />
-  
+
 <br />
 
 </details>
