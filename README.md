@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## I'm a Scientist, Student, Developer, and Blogger!
 - 🔭 I’m currently working on Myself!
-- 🌱 I’m currently learning about Neural Networks
+- 🌱 I’m currently learning about NLP
 - 🤔 I’m looking for help with [Byte Sized Code](https://github.com/aceking007/Byte-Sized-Code)
 - 💻 I use `.python`, `.html`, `.css`, `.javascript`, `.java`, `.git`, `.bash`, `.powershell`, `.processing`
 - 💬 Ask me about science and Python
