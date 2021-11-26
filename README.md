@@ -43,10 +43,10 @@ Here are some ideas to get you started:
 ### 📘 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Building a game of Tic-Tac-Toe in Python](https://medium.com/byte-sized-code/building-a-game-of-tic-tac-toe-in-python-72dd59c5f240?source=rss-cbf16fc671fd------2)
-- [RegEx in Python](https://medium.com/byte-sized-code/regex-in-python-a5e9ea52ec87?source=rss-cbf16fc671fd------2)
-- [Asterisks in Python](https://medium.com/byte-sized-code/asterisks-in-python-b46a3c7cfdf8?source=rss-cbf16fc671fd------2)
-- [Introduction to Game Development in Python &lpar;part 3&rpar;](https://medium.com/byte-sized-code/introduction-to-game-development-in-python-part-3-1ea915e31e25?source=rss-cbf16fc671fd------2)
-- [Introduction to Game Development in Python &lpar;part 2&rpar;](https://medium.com/byte-sized-code/introduction-to-game-development-in-python-part-2-78c2fa2b9315?source=rss-cbf16fc671fd------2)
+- [Goal Setting](https://aceking007.github.io/blog/Goal-Setting/)
+- [Phone Problems](https://aceking007.github.io/blog/Phone-Problems/)
+- [What is Success?](https://aceking007.github.io/blog/What-Is-Success/)
+- [Antiobiotic Apocalypse](https://aceking007.github.io/blog/Antibiotic-Apocalypse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
