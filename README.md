@@ -42,11 +42,11 @@ Here are some ideas to get you started:
 
 ### 📘 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a game of Tic-Tac-Toe in Python](https://medium.com/byte-sized-code/building-a-game-of-tic-tac-toe-in-python-72dd59c5f240?source=rss-cbf16fc671fd------2)
 - [Goal Setting](https://aceking007.github.io/blog/Goal-Setting/)
 - [Phone Problems](https://aceking007.github.io/blog/Phone-Problems/)
 - [What is Success?](https://aceking007.github.io/blog/What-Is-Success/)
 - [Antiobiotic Apocalypse](https://aceking007.github.io/blog/Antibiotic-Apocalypse/)
-- [A Professional Certificate for an Unqualified Layman](https://aceking007.github.io/blog/A-Professional-Certificate-For-An-Unqualified-Layman/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
