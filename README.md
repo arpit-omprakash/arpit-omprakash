@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 
 ## I'm a Scientist, Student, Developer, and Blogger!
 - 🔭 I’m currently working on Myself!
-- 🌱 I’m currently learning about NLP
+- 🌱 I’m currently learning about Bioacoustics
 - 🤔 I’m looking for help with [Byte Sized Code](https://github.com/aceking007/Byte-Sized-Code)
-- 💻 I use `.python`, `.html`, `.css`, `.javascript`, `.java`, `.git`, `.bash`, `.powershell`, `.processing`
-- 💬 Ask me about science and Python
+- 💻 I use `.python`, `.html`, `.css`, `.javascript`, `.git`, `.bash`, `.powershell`
+- 💬 Ask me about Science and Python
 - 📫 How to reach me: omprakasharpit@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ 2021 Goals: Build repositories to teach code. Currently - [C](https://github.com/aceking007/LearnC)
+- ⚡ 2022 Goals: Build repositories to teach code. Currently - [C](https://github.com/aceking007/LearnC)
 - ⚡ Completed Goals:
 	- [Chess AI](https://aceking007.github.io/chess/)
 
@@ -61,13 +61,6 @@ Here are some ideas to get you started:
 </details>
 
 <br />
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-  <img align="left" alt="Aceking007's Most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aceking007&hide_border=true" />
-
-</details>
 
 [website]: https://aceking007.github.io/
 [instagram]: https://www.instagram.com/om_arpit/?hl=en
