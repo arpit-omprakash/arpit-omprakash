@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Arpit aka Aceking007 👋
+### Hi there, I'm Arpit 👋
 [![Website aceking007.github.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)][website]
 
 ## I'm a Scientist, Student, Developer, and Blogger!
