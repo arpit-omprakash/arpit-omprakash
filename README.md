@@ -14,19 +14,19 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there, I'm Arpit 👋
-[![Website aceking007.github.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)][website]
+[![Website arpit-omprakash.github.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)][website]
 
 ## I'm a Scientist, Student, Developer, and Blogger!
-- 🔭 I’m currently working on Myself!
-- 🌱 I’m currently learning about Bioacoustics
-- 🤔 I’m looking for help with [Byte Sized Code](https://github.com/aceking007/Byte-Sized-Code)
+- 🔭 I’m currently working on teaching [Python for data science](https://arpit-omprakash.github.io/Python-for-Data-Science/introduction.html)
+- 🌱 I’m currently learning about statistics and machine learning
+- 🤔 I’m looking for help with [Byte Sized Code](https://github.com/arpit-omprakash/Byte-Sized-Code)
 - 💻 I use `.python`, `.html`, `.css`, `.javascript`, `.git`, `.bash`, `.powershell`
 - 💬 Ask me about Science and Python
 - 📫 How to reach me: omprakasharpit@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ 2022 Goals: Build repositories to teach code. Currently - [C](https://github.com/aceking007/LearnC)
+- ⚡ 2024 Goals: Teach code and reach out to more people.
 - ⚡ Completed Goals:
-	- [Chess AI](https://aceking007.github.io/chess/)
+	- [Chess AI](https://arpit-omprakash.github.io/chess/)
 
 ### Connect with me:
 
@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Arpit | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Arpit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="omarpit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="arpit omprakash | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
 <br />
@@ -54,7 +55,7 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Aceking007's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aceking007&show_icons=true&hide_border=true" />
+  <img align="left" alt="Arpit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arpit-omprakash&show_icons=true&hide_border=true" />
 
 <br />
 
@@ -62,7 +63,8 @@ Here are some ideas to get you started:
 
 <br />
 
-[website]: https://aceking007.github.io/
+[website]: https://arpit-omprakash.github.io/
 [instagram]: https://www.instagram.com/om_arpit/?hl=en
 [twitter]: https://twitter.com/arpit_omprakash
 [linkedin]:https://www.linkedin.com/in/arpit-omprakash-59b748161/
+[youtube]:https://www.youtube.com/channel/UC82xvKyk-HkTxyP2EdDkTWA
